@@ -1,12 +1,12 @@
 {
-  "name": "ebookseller",
+  "name": "stripe",
   "version": "1.0.0",
-  "description": "App to sell ebook",
-  "main": "app.js",
+  "description": "stripe payment app",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
-  "author": "Brad Traversy",
+  "author": "ST",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.2",
